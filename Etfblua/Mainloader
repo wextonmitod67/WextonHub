@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/main-luarp/wextonmithod/refs/heads/main/escapetsunami/loader"))()
